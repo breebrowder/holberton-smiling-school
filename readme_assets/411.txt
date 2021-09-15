@@ -1,0 +1,1 @@
+This directory contains images(.png) and gifs(.gif) that are located in the README of this project repository.
