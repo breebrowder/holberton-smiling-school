@@ -87,7 +87,7 @@
   }
 
   .smileSchool {
-    background: url(image_assets/logo.png);
+    background: url('image_assets/logo.png');
     width: 114px;
     height: 20px;
     display: block;
@@ -95,15 +95,35 @@
   }
 
   .smileOff {
-    background: url(image_assets/smile_off.png);
+    background: url('image_assets/smile_off.png');
     width: 36px;
     height: 30px;
     display: block;
     background-size: cover;
   }
 
+  /* CSS FOR TASK 2: CAROUSEL OF QUOTES- starting from bottom of webpage */
+
+  .holberton_school-icon-arrow_3 {
+    font-family: 'holberton_school-icon';
+    content: '\e902';
+  }
+
+  .holberton_school-icon-arrow_4 {
+    font-family: 'holberton_school-icon';
+    content: '\e903';
+  }
+
+  .font-size {
+    font-size: 22px;
+  }
+
+  .p-bg {
+    background-color: #c271ff;
+  }
+
   /* CSS FOR TASK 4: ROW OF SMILES- starting from bottom of webpage */
 
-.navy-bg {
+  .navy-bg {
     background-color: #071629;
 }
