@@ -101,3 +101,9 @@
     display: block;
     background-size: cover;
   }
+
+  /* CSS FOR TASK 4: ROW OF SMILES- starting from bottom of webpage */
+
+.navy-bg {
+    background-color: #071629;
+}
