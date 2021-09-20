@@ -1,0 +1,4 @@
+# ISSUES IN THE 4-homepage.html file include:
+
+* No white background
+* No star reviews

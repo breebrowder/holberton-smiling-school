@@ -1,0 +1,3 @@
+# ISSUES IN THE 3-homepage.html file include:
+
+* Smiley faces are not centered to the page correctly

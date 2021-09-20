@@ -1,0 +1,5 @@
+# ISSUES IN THE 2-homepage.html file include:
+
+* No white background
+* No title headings under pictures
+* No star reviews
