@@ -122,8 +122,95 @@
     background-color: #c271ff;
   }
 
+  /* CSS FOR TASK 3: POPULAR VIDEOS- starting from bottom of webpage */
+
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    filter: invert(1);
+}
+
+  .card-body img {
+    width: 30px;
+    height: 30px;
+}
+
+  #play {
+    width: 64px;
+    height: 64px;
+}
+
+
+  #img-1 {
+    background-image: url('image_assets/thumbnail_1.jpg');
+    background-position: center center;
+    background-size: cover;
+    width: 255px;
+    height: 154px;
+}
+
+
+  #img-2 {
+    background-image: url('image_assets/thumbnail_2.jpg');
+    background-position: center center;
+    background-size: cover;
+    width: 255px;
+    height: 154px;
+}
+
+  #img-3 {
+    background-image: url('image_assets/thumbnail_3.jpg');
+    background-position: center center;
+    background-size: cover;
+    width: 255px;
+    height: 154px;
+}
+
+  #img-4 {
+    background-image: url('image_assets/thumbnail_4.jpg');
+    background-position: center center;
+    background-size: cover;
+    width: 255px;
+    height: 154px;
+}
+
   /* CSS FOR TASK 4: ROW OF SMILES- starting from bottom of webpage */
 
   .navy-bg {
-    background-color: #071629;
+      background-color: #071629;
+}
+
+ /* CSS FOR TASK 5: FOOTER- starting from bottom of webpage */
+
+  #smiley {
+    width: 37px;
+    height: 30px;
+}
+  #smiley-logo {
+    width: 114px;
+    height: auto;
+}
+
+ /* CSS FOR TASK 7: PRICING HEADER/HERO- starting from bottom of webpage */
+
+  li a:hover, li a:focus {
+    color: var(--color-primary) !important;
+}
+
+  .current:after {
+    content: "";
+    display: block;
+    width: 75px;
+    height: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: var(--color-white);
+}
+
+  .pricing-header-hero {
+    background: url('image_assets/pic_2.jpg') center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    min-height: 1093px;
+    position: relative;
 }
