@@ -214,3 +214,14 @@
     min-height: 1093px;
     position: relative;
 }
+
+  /* CSS FOR TASK 12: COURSES HEADER/HERO- starting from bottom of webpage */
+
+  .courses-header-hero {
+    background: url('image_assets/pic_3.jpg') center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    min-height: 675px;
+    position: relative;
+}
