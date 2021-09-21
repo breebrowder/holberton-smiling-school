@@ -1,0 +1,4 @@
+# ISSUES IN THE 1-pricing.html file include:
+
+* Section starts further down the page
+* No green check marks in the rows

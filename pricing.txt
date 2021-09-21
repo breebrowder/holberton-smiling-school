@@ -1,0 +1,3 @@
+# ISSUES IN THE homepage.html file include:
+
+* No social media icons present
