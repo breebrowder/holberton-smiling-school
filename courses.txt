@@ -1,4 +1,0 @@
-# ISSUES IN THE courses.html file include:
-
-* Currently missing task 13-14 before the footer
-* No social media icons present

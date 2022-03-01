@@ -1,4 +1,0 @@
-# ISSUES IN THE 2-pricing.html file include:
-
-* Small paragraph and "person name/weather presenter" in carousel is not floating in left alignment with each other as opposed to floating in the center of the grid
-* White left(previous) and right(next) arrows do not appear on screen as the carousel moves, but they act as if they are there and move the carousel accordingly when you click in the place they should be located

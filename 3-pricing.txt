@@ -1,3 +1,0 @@
-# ISSUES IN THE 3-pricing.html file include:
-
-* No known issues

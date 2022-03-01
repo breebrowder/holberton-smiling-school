@@ -1,6 +1,0 @@
-# ISSUES IN THE 0-homepage.html file include:
-
-* Smiley face near "SmileSchool" not centered properly
-* "REGISTER FOR FREE" button not rounded
-* Spacing of words below "Get Schooled" title too far apart
-* Hamburger menu almost nonexistent when screen is in xs breakpoint

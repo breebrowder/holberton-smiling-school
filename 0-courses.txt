@@ -1,3 +1,0 @@
-# ISSUES IN THE 0-courses.html file include:
-
-* No known issues
